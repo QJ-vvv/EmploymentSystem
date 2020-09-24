@@ -1,0 +1,108 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 2,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 3,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 4,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 5,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 6,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 7,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 8,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 9,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    },
+    {
+      "id": 10,
+      "comname": "北京柯蓝科技有限公司",
+      "cnmcity": "北京",
+      "job": "计算机金融",
+      "leader": "古晹汨",
+      "phone": "4008008820",
+      "hzzt": "合作中",
+      "jobs": "Java开发"
+    }
+  ]
+}
+
